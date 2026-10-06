@@ -1,0 +1,8 @@
+{
+  "uuid": "macos-menubar@local",
+  "name": "macOS-style Menu Bar",
+  "description": "Adds a macOS Tahoe-style top bar: focused-app indicator (icon + bold name) plus File / Edit / View / Window / Help menus. The app menu shows About/Quit/windows for the focused app; File/Edit/View send the real keyboard shortcuts (New Window, Undo, Copy, Paste, Zoom, Fullscreen, etc.) to the focused app; Window lists and switches between that app's open windows. Wayland-only (matches GNOME 50, which no longer ships an X11 session) — it will not activate under Xorg.",
+  "version": 1,
+  "shell-version": ["50"],
+  "url": ""
+}

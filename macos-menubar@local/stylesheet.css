@@ -1,0 +1,21 @@
+.menubar-label {
+    font-weight: 500;
+    padding: 0 8px;
+}
+
+.app-menu-box {
+    spacing: 6px;
+    padding: 0 8px 0 4px;
+}
+
+.app-menu-label {
+    font-weight: 700;
+}
+
+.app-menu-icon {
+    -st-icon-style: symbolic;
+}
+
+#panel .panel-button:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+}
